@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+    <title>Содержание</title>
+    <list>
+        <item>Лексика. Фразеология. Лексикография</item>
+        <list>
+            <preitem>Омонимы и их употребление </preitem>
+            <preitem>Паронимы и их употребление</preitem>
+            <preitem>Синонимы и их употребление</preitem>
+            <preitem>Антонимы и их употребление</preitem>
+            <preitem>Пассивная лексика. Архаизмы и историзмы</preitem>
+        </list>
+        <item>Фонетика. Графика. Орфоэпия</item>
+            <preitem>Орфоэпия</preitem>
+        <item>Морфемика и словообразование</item>
+            <preitem>Состав слова</preitem>
+            <preitem>Словообразование и формообразование</preitem>
+        <item>Орфография</item>
+            <preitem>Правописание гласных в корне</preitem>
+            <preitem>Правописание гласных после шипящих и Ц</preitem>
+            <preitem>Правописание согласных</preitem>
+            <preitem>Правописание приставок</preitem>
+            <preitem>Употребление Ъ и Ь</preitem>
+            <preitem>Употребление прописных букв</preitem>
+        <item>Морфология. Самостоятельные части речи</item>
+            <preitem>Имя существительное как часть речи</preitem>
+            <preitem>Имя прилагательное как часть речи</preitem>
+            <preitem>Имя числительное как часть речи</preitem>
+            <preitem>Местоимение как часть речи</preitem>
+            <preitem>Глагол как часть речи</preitem>
+            <preitem>Причастие как глагольная форма</preitem>
+            <preitem>Правописание причастий, причастный оборот</preitem>
+            <preitem>Деепричастие как глагольная форма, деепричастный оборот</preitem>
+            <preitem>Наречие как часть речи</preitem>
+            <preitem>Слова категории состояния</preitem>
+
+        <item>Морфология. Служебные части речи</item>
+            <preitem>Предлог как служебная часть речи</preitem>
+            <preitem>Правописание предлогов</preitem>
+            <preitem>Союз как служебная часть речи. Союзные слова</preitem>
+            <preitem>Частицы</preitem>
+            <preitem>Междометие как особый разряд слов. Звукоподражательные слова</preitem>
+        </list>
+
+</html>
