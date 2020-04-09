@@ -55,7 +55,7 @@ public class RussianRecyclerViewAdapter extends RecyclerView.Adapter<RussianRecy
         }else if(holder.mItem.getDetails().equals("выполняется")){
             if(holder.mSign.getText()==""){
                 if(holder.mIdView.getText().toString().toCharArray().length==1){
-                holder.mContentView.setTextColor(Color.parseColor("#D5BB05"));}
+                holder.mContentView.setTextColor(Color.parseColor("#E3F908"));}
             }else{
                 holder.mContentView.setTextColor(Color.BLACK);
             }
