@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements RussianItemFragme
     @Override
     public void onListFragmentInteraction(DummyContent.Rule item) {
         Toast.makeText(this, item.details, Toast.LENGTH_SHORT).show();
-        if(item.getSign()!="+"){
+        if(item.getSign()!="+"&&item.id.length()!=1){
         Intent intent = new Intent(MainActivity.this,Exercise.class);
         startActivity(intent);
         }
